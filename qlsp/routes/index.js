@@ -8,7 +8,7 @@ var chuyenOb = require('mongodb').ObjectID;
 const url = 'mongodb://localhost:27017';
 
 // Database Name
-const dbName = 'qldh';
+const dbName = 'qlsp';
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
